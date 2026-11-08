@@ -1,28 +1,44 @@
-## Hi, I'm sabroxyy 👋
+## Hi, I'm Sabry Hussein Ayoub 👋
 
-**Network & Security Engineer** working with Cisco, Huawei and Fortinet gear, and automating the boring parts with Python, AI agents and AWS.
+**Network Security & Infrastructure Engineer** in Cairo, Egypt, with 6+ years across enterprise firewalls, load balancing, Cisco routing and switching, SD-WAN and virtualization.
+
+Today I run the network and security stack for a 24-site operation: 8 FortiGates managed centrally in FortiManager, Palo Alto via Panorama, F5 BIG-IP, Infoblox DDI, Extreme wireless and Ipanema SD-WAN. I also build Python automation that turns FortiAnalyzer data into recurring security reports.
 
 ### What I work on
 
-- 🌐 **Routing, switching & firewalls**: Cisco IOS, Huawei, FortiGate / FortiAnalyzer, load balancers
-- 🛡️ **Network security**: logging, monitoring, hardening and audit trails
-- 🐍 **Automation**: Python scripts for scanning, reporting and config work
-- 🤖 **AI for NetOps**: agents that help engineers design, troubleshoot and secure networks
-- ☁️ **Cloud**: AWS networking and integrations
+- 🛡️ **Firewalls & security**: FortiGate, FortiManager, FortiAnalyzer, Palo Alto (Panorama), Cisco ASA/FTD, Forcepoint
+- ⚖️ **Load balancing**: F5 BIG-IP / BIG-IQ, A10, Citrix
+- 🌐 **Networking**: Cisco routing & switching, Nexus, BGP, PBR, VLANs, STP and DHCP snooping hardening
+- 📡 **WAN & wireless**: Ipanema SD-WAN, Extreme Networks wireless, DMVPN, site-to-site VPN
+- 🖥️ **Data center**: VMware vSphere / NSX-T, Nutanix, VxRail, Dell EMC
+- 🐍 **Automation**: Python (AI-assisted reporting), Bash
 
-### Tools & tech
+### Certifications
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?logo=fortinet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![NSE7](https://img.shields.io/badge/Fortinet-NSE7-EE3124?logo=fortinet&logoColor=white)
+![NSE4](https://img.shields.io/badge/Fortinet-NSE4-EE3124?logo=fortinet&logoColor=white)
+![FCSS SASE](https://img.shields.io/badge/Fortinet-FCSS%20SASE-EE3124?logo=fortinet&logoColor=white)
+![F5-CA](https://img.shields.io/badge/F5-Certified%20Administrator-E4002B?logo=f5&logoColor=white)
+![VCP-DCV](https://img.shields.io/badge/VMware-VCP--DCV-607078?logo=vmware&logoColor=white)
+![VCP-NV](https://img.shields.io/badge/VMware-VCP--NV-607078?logo=vmware&logoColor=white)
+![RHCSA](https://img.shields.io/badge/Red%20Hat-RHCSA-EE0000?logo=redhat&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?logo=cisco&logoColor=white)
+![Nutanix](https://img.shields.io/badge/Nutanix-NCP--MCI-024DA1?logo=nutanix&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle-OCI%20Foundations-F80000?logo=oracle&logoColor=white)
 
-### Projects
+### Selected projects
 
-| Project | Description |
-|---------|-------------|
+- **Central Bank of Egypt**: firewalls, routers and load balancing across multiple buildings, plus the Printing House and Cash Center project
+- **Real Estate Registration**: scaled from 125 automated branches to 500; BGP migration and syslog servers
+- **Cairo University**: FortiGate firewalls and 3,000+ thin clients
+- **Baheya Zayed Hospital**: 4-node VxRail cluster with ESXi
+
+### On GitHub
+
+| Repository | Description |
+|------------|-------------|
 | [Syslog Server for Cisco Routers](https://github.com/sabroxyy/Configure-SYS-LOG-SERVER-for-CISCO-ROUTERS) | Central rsyslog server for Cisco IOS logs: router config, server setup, firewall rules |
 
-More network automation tools coming soon.
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sabryayoub-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabryayoub)
