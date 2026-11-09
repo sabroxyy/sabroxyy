@@ -11,7 +11,7 @@ Today I run the network and security stack for a 24-site operation: 8 FortiGates
 - 🌐 **Networking**: Cisco routing & switching, Nexus, BGP, PBR, VLANs, STP and DHCP snooping hardening
 - 📡 **WAN & wireless**: Ipanema SD-WAN, Extreme Networks wireless, DMVPN, site-to-site VPN
 - 🖥️ **Data center**: VMware vSphere / NSX-T, Nutanix, VxRail, Dell EMC
-- 🐍 **Automation**: Python (AI-assisted reporting), Bash
+- 🐍 **Automation**: Python (AI-assisted reporting, Nmap scanning), Bash
 
 ### Certifications
 
@@ -38,6 +38,7 @@ Today I run the network and security stack for a 24-site operation: 8 FortiGates
 | Repository | Description |
 |------------|-------------|
 | [Syslog Server for Cisco Routers](https://github.com/sabroxyy/Configure-SYS-LOG-SERVER-for-CISCO-ROUTERS) | Central rsyslog server for Cisco IOS logs: router config, server setup, firewall rules |
+| [Network Monitoring Toolkit](https://github.com/sabroxyy/network-monitoring-toolkit) | Interactive Nmap scanner in Python: pick scan options from a menu, get open ports rated critical / medium / low risk |
 
 ### Connect
 
