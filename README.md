@@ -1,3 +1,20 @@
+<div align="center">
+
+```
+███████╗ █████╗ ██████╗ ██████╗  ██████╗ ██╗  ██╗██╗   ██╗██╗   ██╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗╚██╗██╔╝╚██╗ ██╔╝╚██╗ ██╔╝
+███████╗███████║██████╔╝██████╔╝██║   ██║ ╚███╔╝  ╚████╔╝  ╚████╔╝
+╚════██║██╔══██║██╔══██╗██╔══██╗██║   ██║ ██╔██╗   ╚██╔╝    ╚██╔╝
+███████║██║  ██║██████╔╝██║  ██║╚██████╔╝██╔╝ ██╗   ██║      ██║
+╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝
+```
+
+**Network Security & Infrastructure Engineer · Cairo, Egypt**
+
+</div>
+
+---
+
 ## Hi, I'm Sabry Ayoub 👋
 
 **Network Security & Infrastructure Engineer** in Cairo, Egypt, with 6+ years across enterprise firewalls, load balancing, Cisco routing and switching, SD-WAN and virtualization.
